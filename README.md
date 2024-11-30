@@ -16,7 +16,7 @@ LED1 and R1 are optional and not required for the PCB to work as expected
 
 ## Where to get one
 
-You can download the gerbers and make your own or soon would will be able to purchase PCB's and assembled units @ <a href="https://www.darkonecustoms.com>Darkone Customs</a>
+You can download the gerbers and make your own or soon would will be able to purchase PCB's and assembled units @ <a href="https://www.darkonecustoms.com">Darkone Customs</a>
 
 Assembled Boards: Comming Soon!
 
