@@ -12,7 +12,7 @@ The BOM and IBOMS are included for ease of assembly
 
 #### Builders note
 
-LED1 and R1 are optional and not required for the PCB to work as expected
+LED1 and R1 are optional and not required for the PCB to work as expected. If your XBOX is a revision 1.6 you will need to rebuild the LPC manually or use a LPC rebuild PCB.
 
 ## Where to get one
 
