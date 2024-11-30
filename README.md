@@ -10,6 +10,10 @@ For more information on the software side of things and the ModXo project please
 
 The BOM and IBOMS are included for ease of assembly
 
+#### Builders note
+
+LED1 and R1 are optional and not required for the PCB to work as expected
+
 ## Navigation
 
 Root: BOM and IBOM are located here
