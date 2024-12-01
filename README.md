@@ -18,7 +18,7 @@ JST 1.0 6P headers: <a href="https://www.aliexpress.us/item/3256807921170605.htm
 
 Resistor network: <a href="https://www.aliexpress.us/item/3256805393765008.html?spm=a2g0o.order_list.order_list_main.15.2ab61802WqdO85&gatewayAdapt=glo2usa">AliExpress</a>
 
-680ohm 0805 SMD Resistor: <a href="https://www.aliexpress.us/item/3256805001000955.html?spm=a2g0o.productlist.main.1.21e92a8bJSREJB&algo_pvid=166c6b88-0bcd-419e-a2aa-9cdee6e1159c&algo_exp_id=166c6b88-0bcd-419e-a2aa-9cdee6e1159c-0&pdp_npi=4%40dis%21USD%211.61%211.61%21%21%2111.58%2111.58%21%402103010b17330203904498265e203c%2112000032028480646%21sea%21US%21196794698%21X&curPageLogUid=gv6us4jd9bBm&utparam-url=scene%3Asearch%7Cquery_from%3A">AliExpress</a> Select 680ohm
+680ohm 0805 SMD Resistor: <a href="https://www.aliexpress.us/item/3256805001000955.html?spm=a2g0o.productlist.main.1.21e92a8bJSREJB&algo_pvid=166c6b88-0bcd-419e-a2aa-9cdee6e1159c&algo_exp_id=166c6b88-0bcd-419e-a2aa-9cdee6e1159c-0&pdp_npi=4%40dis%21USD%211.61%211.61%21%21%2111.58%2111.58%21%402103010b17330203904498265e203c%2112000032028480646%21sea%21US%21196794698%21X&curPageLogUid=gv6us4jd9bBm&utparam-url=scene%3Asearch%7Cquery_from%3A">AliExpress</a> (Select 680ohm)
 
 0805 SMD LED: <a href="https://www.aliexpress.us/item/3256805040539430.html?spm=a2g0o.order_list.order_list_main.115.2ab61802WqdO85&gatewayAdapt=glo2usa">AliExpress</a> (Select any color 0805 size)
 
