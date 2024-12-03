@@ -41,6 +41,8 @@ PCB's: Comming soon!
 
 Root: BOM and IBOM are located here
 
+Addons: This folder will contain separate folder for additional addon modules.
+
 Images: All images, branding, PCB renders, and schematics are located in this folder
 
 PCB: Gerbers and pick and place files are located in this folder
