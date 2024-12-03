@@ -4,7 +4,7 @@
 
 A carrier board designed for ModXo V1.X
 
-This is designed around Team Resutgents and Shalx's work on ModXo an open-source modchip for the OG XBOX
+This is designed around Team Resutgent's and Shalx's work on ModXo an open-source modchip for the OG XBOX
 
 For more information on the software side of things and the ModXo project please visit: https://github.com/Team-Resurgent/Modxo
 
