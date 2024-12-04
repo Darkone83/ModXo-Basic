@@ -23,9 +23,17 @@ Blank PCB: Coming Soon!
 # Installation
 #### Installation images are based off of Andr-Zero's initial images
 
+3.3V Standby points
+
 ## 1.0 & 1.1
 
+<img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/X-RTC/1011Board.png" width=300>
+
 ## 1.2 & 1.4
+
+<img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/X-RTC/1214Board.png" width=300>
+
+## 1.6 Notes
 
 Will be updated after initial testing has been completed 
 
