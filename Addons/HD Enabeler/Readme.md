@@ -26,6 +26,10 @@ Pre-assembled board: Coming Soon!
 
 Blank PCB: Coming Soon!
 
+# Installation
+
+Mount the add-on board and connect a 6P SH 1.0 cable from the IN connector to the ModXo-Basic board. Connect another 6P SH 1.0 cable from the OUT connector to your HDMI board. If you are installing an additional add-on module connect it to the EXP connector on the HD Enabler board.  
+
 ## Port pinouts
 
 ![alt_image](https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/HD%20Enabeler/HD%20Enabler%20Ports.png?raw=true)
