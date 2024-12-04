@@ -31,7 +31,7 @@ LED1 and R1 are optional and not required for the PCB to work as expected. If yo
 
 ## Where to get one
 
-You can download the gerbers and make your own or soon your will be able to purchase PCB's and assembled units @ <a href="https://www.darkonecustoms.com">Darkone Customs</a>
+You can download the gerbers and make your own or soon you will be able to purchase PCB's and assembled units @ <a href="https://www.darkonecustoms.com">Darkone Customs</a>
 
 Assembled Boards: Comming Soon!
 
@@ -41,9 +41,9 @@ PCB's: Comming soon!
 
 Root: BOM and IBOM are located here
 
-Addons: This folder will contain separate folder for additional addon modules. Current addons include the HD Enabeler, and the X-RTC
+Addons: This folder will contain separate folders for additional add-on modules. Current add-ons include the HD Enabler and the X-RTC
 
-Images: All images, branding, PCB renders, and schematics are located in this folder. These images and schematics are for the carrier only all addon images and schematics are in their repsective folders.
+Images: All images, branding, PCB renders, and schematics are located in this folder. These images and schematics are for the carrier only all addon images and schematics are in their respective folders.
 
 PCB: Gerbers and pick and place files are located in this folder
 
