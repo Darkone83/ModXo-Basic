@@ -20,6 +20,16 @@ Pre-assembled board: Coming Soon!
 
 Blank PCB: Coming Soon!
 
+#Installation
+
+Will be updated after initial testing has been completed 
+
+# Port pinouts
+
+CN1
+
+![alt_image](https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/X-RTC/CN1.png?raw=true)
+
 # Thanks
 
 All thanks and credit goto the following parties
