@@ -24,6 +24,20 @@ Blank PCB: Coming Soon!
 
 Will be updated after initial testing has been completed 
 
+# Software
+
+Cerbios 2.4.0 or higher is required to use X-RTC.
+
+; Enables Automatic Time Sync With Optional RTC Hardware Connected to SMBus
+
+RtcEnable = True
+
+Using a Chip that can use PrometheOS: Version 1.4.0 or higher is able to set the time, enable RTC in PrometheOS Settings. (Rebooting recommended)
+
+TSOP or Other: Download the X-RTC.xbe into your Apps folder, within you can set the time.
+
+Once the time is set and Cerbios is configured. The time on the console will set automatically on boot.
+
 # Port pinouts
 
 CN1
