@@ -47,6 +47,21 @@ Images: All images, branding, PCB renders, and schematics are located in this fo
 
 PCB: Gerbers and pick and place files are located in this folder
 
+# Installation
+
+## 1.0 - 1.4
+
+Install your pin header, Run a short wire from any suitable D0 point to either ground or the D0 point on the ModXo-Basic. Plug-in your ModXo-Basic to the XBOX LPC port (after you have flashed your favorite firmware) and enjoy.
+
+## 1.6
+
+Either install a LPC rebuild QSB or rebuild your LPC per the rebuild diagram below. Plug-in your ModXo-Basic to the XBOX LPC port (after you have flashed your favorite firmware) and enjoy.
+
+1.6 LPC rebuild
+
+
+
+
 ## Port pinouts
 
 DISP:
