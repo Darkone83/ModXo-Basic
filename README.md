@@ -59,7 +59,7 @@ Either install a LPC rebuild QSB or rebuild your LPC per the rebuild diagram bel
 
 1.6 LPC rebuild
 
-
+![alt_image](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/16rebuild.png?raw=true)
 
 
 ## Port pinouts
