@@ -20,7 +20,7 @@ Pre-assembled board: Coming Soon!
 
 Blank PCB: Coming Soon!
 
-#Installation
+# Installation
 
 Will be updated after initial testing has been completed 
 
