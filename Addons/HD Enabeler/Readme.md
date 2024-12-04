@@ -1,6 +1,6 @@
 # HD Enabeler Addon
 
-![alt text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/DC%20logo.png?raw=true)
+<img src="https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/Nemesis.png" width=180> ![alt text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/DC%20logo.png?raw=true)
 
 This board is based on TeamUIX's Epimetheus with some slight modifications to interface with the ModXo-Basic board
 
