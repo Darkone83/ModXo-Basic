@@ -1,5 +1,7 @@
 # HD Enabeler Addon
 
+![alt text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/DC%20logo.png?raw=true)
+
 This board is based on TeamUIX's Epimetheus with some slight modifications to interface with the ModXo-Basic board
 
 For more information on Epimetheus visit: https://github.com/OfficialTeamUIX/Epimetheus
@@ -16,9 +18,9 @@ We do not provide any firmware for the STM32. You will need to either code your 
 
 Pre-assembled boards and blank PCB's can be purchased at <a href="https://www.darkonecuscoms.com">Darkone Customs</a> or your0 free to build your own
 
-Pre-assembled board: Comming Soon!
+Pre-assembled board: Coming Soon!
 
-Blank PCB: Comming Soon!
+Blank PCB: Coming Soon!
 
 ## Port pinouts
 
