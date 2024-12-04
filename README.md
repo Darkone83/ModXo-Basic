@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/logo.png?raw=true) <img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/team-resurgent.png" width="180"> ![alt text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/DC%20logo.png?raw=true)
 
-A carrier board designed for ModXo V1.X
+A carrier board designed for ModXo V1.X that is expandable via add-ons. 
 
 This is designed around Team Resutgent's and Shalx's work on ModXo an open-source modchip for the OG XBOX
 
