@@ -25,6 +25,8 @@ Blank PCB: Coming Soon!
 
 3.3V Standby points
 
+Run a short wire from the console's 3.3v standby outlined in red to the 3.3V_StdBy pad on the add-on board. Mount and plug the 6P SH 1.0 cable from CN1 to the EXP connector on the ModXo-Basic (if you have another add-on board installed connect to the EXP connector on that board).  Lastly, install 3v battery in the coin cell holder.
+
 ## 1.0 & 1.1
 
 <img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/X-RTC/1011Board.png" width=300>
@@ -35,7 +37,7 @@ Blank PCB: Coming Soon!
 
 ## 1.6 Notes
 
-Will be updated after initial testing has been completed 
+3.3V_StdBy wire is not required. Mount and plug in the 6P SH 1.0 cable from CN1 to the EXP connector on the ModXo-Basic (if you have another add-on board installed connect to the EXP connector on that board).  Lastly, install 3v battery in the coin cell holder.
 
 # Software
 
