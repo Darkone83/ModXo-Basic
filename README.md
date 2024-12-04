@@ -41,9 +41,9 @@ PCB's: Comming soon!
 
 Root: BOM and IBOM are located here
 
-Addons: This folder will contain separate folder for additional addon modules.
+Addons: This folder will contain separate folder for additional addon modules. Current addons include the HD Enabeler, and the X-RTC
 
-Images: All images, branding, PCB renders, and schematics are located in this folder
+Images: All images, branding, PCB renders, and schematics are located in this folder. These images and schematics are for the carrier only all addon images and schematics are in their repsective folders.
 
 PCB: Gerbers and pick and place files are located in this folder
 
