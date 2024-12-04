@@ -53,11 +53,15 @@ PCB: Gerbers and pick and place files are located in this folder
 
 Install your pin header, Run a short wire from any suitable D0 point to either ground or the D0 point on the ModXo-Basic. Plug-in your ModXo-Basic to the XBOX LPC port (after you have flashed your favorite firmware) and enjoy.
 
+#### D0 Point options
+
+![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/d0.png?raw=true)
+
 ## 1.6
 
 Either install a LPC rebuild QSB or rebuild your LPC per the rebuild diagram below. Plug-in your ModXo-Basic to the XBOX LPC port (after you have flashed your favorite firmware) and enjoy.
 
-1.6 LPC rebuild
+#### 1.6 LPC rebuild
 
 ![alt_image](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/16rebuild.png?raw=true)
 
