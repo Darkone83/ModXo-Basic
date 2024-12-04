@@ -21,6 +21,11 @@ Pre-assembled board: Coming Soon!
 Blank PCB: Coming Soon!
 
 # Installation
+#### Installation images are based off of Andr-Zero's initial images
+
+## 1.0 & 1.1
+
+## 1.2 & 1.4
 
 Will be updated after initial testing has been completed 
 
