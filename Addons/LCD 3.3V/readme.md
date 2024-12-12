@@ -2,7 +2,7 @@
 
 ![alt_image](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/DC%20logo.png)
 
-A simple break out for the ModXo-Basic's disp connector. This board breaksout all signals 5V 3.3V and GND.
+A simple breakout board for the ModXo-Basic's disp connector. This board breaks out all signals plus 5V 3.3V and GND.
 
 # Where can I get one?
 
