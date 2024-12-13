@@ -5,6 +5,7 @@
 <a href="https://discord.gg/k2BQhSJ"><img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/discord.svg"></a>
 
 <img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/Board_Front.jpg" width=300> <img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/Board_Back.jpg" width=300>
+
 A carrier board designed for ModXo V1.X that is expandable via add-ons. 
 
 This is designed around Team Resutgent's and Shalx's work on ModXo an open-source modchip for the OG XBOX
