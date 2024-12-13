@@ -4,6 +4,7 @@
 
 <a href="https://discord.gg/k2BQhSJ"><img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/discord.svg"></a>
 
+<img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/Board_Front.jpg" width=300> <img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/Board_Back.jpg" width=300>
 A carrier board designed for ModXo V1.X that is expandable via add-ons. 
 
 This is designed around Team Resutgent's and Shalx's work on ModXo an open-source modchip for the OG XBOX
@@ -50,6 +51,8 @@ Images: All images, branding, PCB renders, and schematics are located in this fo
 PCB: Gerbers and pick and place files are located in this folder
 
 # Installation
+
+<img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/Installed.jpg" width=300>
 
 ## 1.0 - 1.4
 
