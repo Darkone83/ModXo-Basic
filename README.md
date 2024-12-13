@@ -37,7 +37,7 @@ LED1 and R1 are optional and not required for the PCB to work as expected. If yo
 
 You can download the gerbers and make your own or soon you will be able to purchase PCB's and assembled units @ <a href="https://www.darkonecustoms.com">Darkone Customs</a>
 
-Assembled Boards: <a href="https://www.darkonecustoms.com/store/p/modxo-pico-pcb">Darkone Customs</a>
+Assembled Boards: <a href="https://www.darkonecustoms.com/store/p/modxo-basic">Darkone Customs</a>
 
 PCB's: <a href="https://www.darkonecustoms.com/store/p/6nvguzlzk0nrs1bkq4pcuudsgvsr0o">Darkone Customs</a>
 
