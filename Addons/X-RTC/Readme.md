@@ -12,7 +12,7 @@ For more information on Ander-Zero's X-RTC please visit: https://github.com/Andr
 
 ## Builders Note
 
-The value of L1 is a 200ohm ferrite bead in a 0805 footprint. This version of the board ONLY supports a CR2032 and not a LR2032. Rechargeable batteries will not work with this board nor will any revisions be made to include said functionality. If you plan on mounting the PCB to the shield of the XBOX be sure to rim the leads on the battery holder flush and insulate the back of the PCB to prevent shorts
+The value of L1 is a 200ohm ferrite bead in a 0805 footprint. This version of the board ONLY supports a CR2032 and not a LR2032. Rechargeable batteries will not work with this board nor will any revisions be made to include said functionality. If you plan on mounting the PCB to the shield of the XBOX be sure to trim the leads on the battery holder flush and insulate the back of the PCB to prevent shorts if you plan on mounting it to the XBOX's RF Shield.
 
 # Where can I get one?
 
