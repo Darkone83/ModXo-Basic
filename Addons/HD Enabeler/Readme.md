@@ -2,6 +2,8 @@
 
 <img src="https://github.com/Darkone83/ModXo-RP2040-Tiny/blob/main/Images/Nemesis.png" width=180> ![alt text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/DC%20logo.png?raw=true)
 
+<img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/HD%20Enabeler/Board.png" width=300>
+
 This board is based on TeamUIX's Epimetheus with some slight modifications to interface with the ModXo-Basic board
 
 For more information on Epimetheus visit: https://github.com/OfficialTeamUIX/Epimetheus
@@ -27,6 +29,8 @@ Pre-assembled board: Coming Soon!
 Blank PCB: Coming Soon!
 
 # Installation
+
+<img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/HD%20Enabeler/Install.png">
 
 Mount the add-on board and connect a 6P SH 1.0 cable from the IN connector to the ModXo-Basic board. Connect another 6P SH 1.0 cable from the OUT connector to your HDMI board. If you are installing an additional add-on module connect it to the EXP connector on the HD Enabler board.  
 
