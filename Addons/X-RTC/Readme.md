@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/X-RTC/Board.png" width=300>
 
-This is based on Team Resurgent's and Andr-Zero's work on the X-RTC board. Minor changes have been made to adapt it to the ModXo-Basiv board
+This is based on Team Resurgent's and Andr-Zero's work on the X-RTC board. Minor changes have been made to adapt it to the ModXo-Basic board
 
 For more information on Team Resurgent and their projects please visit: https://github.com/Team-Resurgent/
 
