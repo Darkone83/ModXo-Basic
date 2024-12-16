@@ -86,7 +86,7 @@ RGB:
 
 ![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/RGB_EXP.png?raw=true)
 
-To enable the RBG EXP port you will need to manually install a jumper on the lower left pin of the RGB LED to the RBP pad on the carrier board. At this time RGP expansion is not currently enabled. See the example below for connecting the RGB pad
+To enable the RBG EXP port you will need to manually install a jumper on the lower right pin of the RGB LED to the RGB pad on the carrier board. At this time RGB expansion is not currently enabled. See the example below for connecting the RGB pad
 
 ![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/RGB_EN.png?raw=true)
 
