@@ -24,9 +24,9 @@ We do not provide any firmware for the STM32. You will need to either code your 
 
 Pre-assembled boards and blank PCB's can be purchased at <a href="https://www.darkonecuscoms.com">Darkone Customs</a> or your0 free to build your own
 
-Pre-assembled board: Coming Soon!
+Pre-assembled board: <a href="https://www.darkonecustoms.com/store/p/hd-enabeler-add-on-for-modxo-basic-assembled">Darkone Customs</a>
 
-Blank PCB: Coming Soon!
+Blank PCB: <a href="https://www.darkonecustoms.com/store/p/hd-enabler-add-on-for-modxo-basic-pcb">Darkone Customs</a>
 
 # Installation
 
