@@ -2,6 +2,8 @@
 
 <img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/team-resurgent.png" width="180"> ![alt text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/DC%20logo.png?raw=true)
 
+<img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/X-RTC/Board.png" width=300>
+
 This is based on Team Resurgent's and Andr-Zero's work on the X-RTC board. Minor changes have been made to adapt it to the ModXo-Basiv board
 
 For more information on Team Resurgent and their projects please visit: https://github.com/Team-Resurgent/
@@ -16,12 +18,14 @@ The value of L1 is a 200ohm ferrite bead in a 0805 footprint. This version of th
 
 Pre-assembled boards and blank PCB's can be purchased at <a href="https://www.darkonecustoms.com">Darkone Customs</a> or you can feel free to build your own!
 
-Pre-assembled board: Coming Soon!
+Pre-assembled board: <a href="https://www.darkonecustoms.com/store/p/x-rtc-add-on-for-modxo-basic-assembled">Darkone Customs</a>
 
-Blank PCB: Coming Soon!
+Blank PCB: <a href="https://www.darkonecustoms.com/store/p/x-rtc-add-on-for-modxo-basic-pcb">Darkone Customs</a>
 
 # Installation
 #### Installation images are based off of Andr-Zero's initial images
+
+<img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/X-RTC/Install.png" wisth=300>
 
 3.3V Standby points
 
