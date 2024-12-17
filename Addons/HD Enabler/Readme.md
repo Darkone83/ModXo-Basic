@@ -18,7 +18,7 @@ Once assembly is complete you can proceed to program your STM32 Review the NRST 
 
 #### Notice
 
-We do not provide any firmware for the STM32. You will need to either code your own or obtain a firmware image legally
+We do not provide any firmware for the STM32. You will need to either code your own or obtain a firmware image legally!
 
 ## Where can I get one?
 
