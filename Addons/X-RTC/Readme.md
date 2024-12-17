@@ -31,7 +31,7 @@ Blank PCB: <a href="https://www.darkonecustoms.com/store/p/x-rtc-add-on-for-modx
 
 The X-RTC add-on can be installed as a standalone item. When installing this way you will need to either wire it directly to the LPC port for a TSOP or if you have a modchip installed you can also tap the LPC from there.
 
-<img src="https://github.com/Darkone83/ModXo-Basic/main/addons/X-RTC/LPC.png" width=450>
+<img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/X-RTC/LPC.png" width=450>
 
 Using a SH 1.0 6P pigtail connect in the following order: Pin 6 (5V) on the pigtail will go to pin 6 of the LPC, Pin 1(GND) will go to pin 2 on the LPC, Pin 5(XSDA) on the pigtail will connect to pin 14 of the LPC, and finally Pin 2(XSCL) will connect to pin 13 on the LPC. Pins 3 and 4 can be removed as they are not used. Please use the 3.3V Standby points listed below to complete the install.
 
