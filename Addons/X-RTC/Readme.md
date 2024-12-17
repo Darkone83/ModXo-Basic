@@ -16,14 +16,14 @@ The value of L1 is a 200ohm ferrite bead in a 0805 footprint. This version of th
 
 # Where can I get one?
 
-Pre-assembled boards and blank PCB's can be purchased at <a href="https://www.darkonecustoms.com">Darkone Customs</a> or you can feel free to build your own!
+Pre-assembled boards and blank PCBs can be purchased at <a href="https://www.darkonecustoms.com">Darkone Customs</a> or you can feel free to build your own!
 
 Pre-assembled board: <a href="https://www.darkonecustoms.com/store/p/x-rtc-add-on-for-modxo-basic-assembled">Darkone Customs</a>
 
 Blank PCB: <a href="https://www.darkonecustoms.com/store/p/x-rtc-add-on-for-modxo-basic-pcb">Darkone Customs</a>
 
 # Installation
-#### Installation images are based off of Andr-Zero's initial images
+#### Installation images are based on Andr-Zero's initial images
 
 <img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/X-RTC/Install.png" wisth=300>
 
@@ -33,11 +33,11 @@ The X-RTC add-on can be installed as a standalone item. When installing this way
 
 <img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/X-RTC/LPC.png" width=450>
 
-Using a SH 1.0 6P pigtail connect in the following order: Pin 6 (5V) on the pigtail will go to pin 6 of the LPC, Pin 1(GND) will go to pin 2 on the LPC, Pin 5(XSDA) on the pigtail will connect to pin 14 of the LPC, and finally Pin 2(XSCL) will connect to pin 13 on the LPC. Pins 3 and 4 can be removed as they are not used. Please use the 3.3V Standby points listed below to complete the install.
+Using a SH 1.0 6P pigtail connect in the following order: Pin 6 (5V) on the pigtail will go to pin 6 of the LPC, Pin 1(GND) will go to pin 2 on the LPC, Pin 5(XSDA) on the pigtail will connect to pin 14 of the LPC, and finally Pin 2(XSCL) will connect to pin 13 on the LPC. Pins 3 and 4 can be removed as they are not used. Please use the 3.3V Standby points listed below to complete the installation.
 
-3.3V Standby points
+## 3.3V Standby points
 
-Run a short wire from the console's 3.3v standby outlined in red to the 3.3V_StdBy pad on the add-on board. Mount and plug the 6P SH 1.0 cable from CN1 to the EXP connector on the ModXo-Basic (if you have another add-on board installed connect to the EXP connector on that board).  Lastly, install 3v battery in the coin cell holder.
+Run a short wire from the console's 3.3V standby outlined in red to the 3.3V_StdBy pad on the add-on board. Mount and plug the 6P SH 1.0 cable from CN1 to the EXP connector on the ModXo-Basic (if you have another add-on board installed connect to the EXP connector on that board).  Lastly, install 3v battery in the coin cell holder.
 
 ## 1.0 & 1.1
 
@@ -59,11 +59,11 @@ Cerbios 2.4.0 or higher is required to use X-RTC.
 >
 > RtcEnable = True
 
-Using a Chip that can use PrometheOS: Version 1.4.0 or higher is able to set the time, enable RTC in PrometheOS Settings. (Rebooting recommended)
+Using a Chip that can use PrometheOS: Version 1.4.0 or higher is able to set the time, and enable RTC in PrometheOS Settings. (Rebooting recommended)
 
-TSOP or Other: Download the X-RTC.xbe into your Apps folder, within you can set the time.
+TSOP or Other: Download the X-RTC.xbe into your Apps folder, within which you can set the time.
 
-Once the time is set and Cerbios is configured. The time on the console will set automatically on boot.
+Once the time is set and Cerbios is configured. The time on the console will be set automatically on boot.
 
 # Port pinouts
 
@@ -73,7 +73,7 @@ CN1
 
 # Thanks
 
-All thanks and credit goto the following parties
+All thanks and credit go to the following parties
 
 Team Resurgent for the idea, PrometheOS, and the XBE.
 
