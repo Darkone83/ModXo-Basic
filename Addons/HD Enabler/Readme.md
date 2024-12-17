@@ -14,7 +14,7 @@ The value for L1 is a 200ohm ferrite bead in a 0805 footprint, do not install R5
 
 ### Programming Notes
 
-Once assembly is complete you can proceed to program your STM32 Review the NRST Harness diagram and temporarily install it for programming. The NRST wire will connect to the top pad of R5 (the one closest to the MCU) and the GND side to any viable GND source. Remove the NRST harness once you have verified and tested your firmware. Install R5 to complete the STM32 circuit. SDA is pulled directly from PIN 5 on the IN connector and SLC is pulled directly from PIN 2. Pinouts will be listed below. Proceed to Port assembly
+Once assembly is complete you can proceed to program your STM32 Review the NRST Harness diagram and temporarily install it for programming. The NRST wire will connect to the top pad of R5 (the one closest to the MCU) and the GND side to any viable GND source. Remove the NRST harness once you have verified and tested your firmware. Install R5 to complete the STM32 circuit. SDA is pulled directly from PIN 5 on the IN connector and SCL is pulled directly from PIN 2. Pinouts will be listed below. Proceed to Port assembly
 
 #### Notice
 
