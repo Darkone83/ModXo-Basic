@@ -12,7 +12,7 @@ For more information on Ander-Zero's X-RTC please visit: https://github.com/Andr
 
 ## Builders Note
 
-The value of L1 is a 200ohm ferrite bead in a 0805 footprint. This version of the board ONLY supports a CR2032 and not a LR2032. Rechargeable batteries will not work with this board nor will any revisions be made to include said functionality. If you plan on mounting the PCB to the shield of the XBOX be sure to trim the leads on the battery holder flush and insulate the back of the PCB to prevent shorts if you plan on mounting it to the XBOX's RF Shield.
+The value of L1 is a 200ohm ferrite bead in a 0805 footprint. This version of the board ONLY supports a CR2032 and not a LR2032. Rechargeable batteries will not work with this board nor will any revisions be made to include said functionality. If you plan on mounting the PCB to the shield of the XBOX be sure to trim the leads on the battery holder flush and insulate the back of the PCB to prevent shorts if you plan on mounting it to the XBOX's RF Shield. This can be installed as a standalone item wired to the LPC or wired to the LPC of another modchip.
 
 # Where can I get one?
 
@@ -26,6 +26,14 @@ Blank PCB: <a href="https://www.darkonecustoms.com/store/p/x-rtc-add-on-for-modx
 #### Installation images are based off of Andr-Zero's initial images
 
 <img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Addons/X-RTC/Install.png" wisth=300>
+
+## Standalone install
+
+The X-RTC add-on can be installed as a standalone item. When installing this way you will need to either wire it directly to the LPC port for a TSOP or if you have a modchip installed you can also tap the LPC from there.
+
+<img src="https://github.com/Darkone83/ModXo-Basic/main/addons/X-RTC/LPC.png" width=450>
+
+Using a SH 1.0 6P pigtail connect in the following order: Pin 6 (5V) on the pigtail will go to pin 6 of the LPC, Pin 1(GND) will go to pin 2 on the LPC, Pin 5(XSDA) on the pigtail will connect to pin 14 of the LPC, and finally Pin 2(XSCL) will connect to pin 13 on the LPC. Pins 3 and 4 can be removed as they are not used. Please use the 3.3V Standby points listed below to complete the install.
 
 3.3V Standby points
 
