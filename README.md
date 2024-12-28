@@ -51,6 +51,9 @@ Images: All images, branding, PCB renders, and schematics are located in this fo
 
 PCB: Gerbers and pick and place files are located in this folder
 
+#### Note: 
+Only PCB.zip will reflect the current schematic other gerbers are alternate designs.
+
 # Installation
 
 <img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/Installed.jpg" width=300>
