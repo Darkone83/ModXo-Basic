@@ -4,7 +4,7 @@
 
 A simple breakout board for the ModXo-Basic's disp connector. This board breaks out all signals plus 5V 3.3V and GND.
 
-!This board will only work if your DISP Voltage is set to 5V!
+This board will only work if your DISP Voltage is set to 5V!
 
 # Where can I get one?
 
