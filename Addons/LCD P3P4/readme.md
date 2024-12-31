@@ -2,7 +2,7 @@
 
 ![alt_image](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/DC%20logo.png)
 
-A simple breakout board for the ModXo-Basic's disp connector. This board adapts the DISP connector for the USB P3 & P4 plug for a front panel-mounted LCD.
+A simple breakout board for the ModXo-Basic's disp connector. This board adapts the DISP connector for the USB P3 & P4 plug for a front panel-mounted LCD. Installing this board will no longer allow you to use the P3 or P4 connectors for controllers but it is easily reversible.
 
 This board will only work if your DISP Voltage is set to 5V!
 
