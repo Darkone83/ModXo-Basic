@@ -16,4 +16,4 @@ Pre-assembled boards and blank PCB's can be purchased at <a href="https://www.da
 
 Pre-assembled board: Coming Soon!
 
-Blank PCB: Coming Soon!
+Blank PCB: <a href="https://www.darkonecustoms.com/store/p/lcd-p3-p4-add-on-pcb">Darkone Customs</a>
