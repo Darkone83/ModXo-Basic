@@ -39,7 +39,7 @@ You can download the gerbers and make your own or soon you will be able to purch
 
 Assembled Boards: <a href="https://www.darkonecustoms.com/store/p/modxo-basic">Darkone Customs</a>
 
-PCB's: <a href="https://www.darkonecustoms.com/store/p/6nvguzlzk0nrs1bkq4pcuudsgvsr0o">Darkone Customs</a>
+PCB's: <a href="https://www.darkonecustoms.com/store/p/modxo-basic-pcb">Darkone Customs</a>
 
 ## Navigation
 
