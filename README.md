@@ -81,6 +81,10 @@ DISP:
 
 ![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/DISP.png?raw=true)
 
+VSEL:
+
+![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/VSEL.png?raw=true)
+
 EXP:
 
 ![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/EXP.png?raw=true)
