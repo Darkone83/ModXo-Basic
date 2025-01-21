@@ -33,6 +33,8 @@ Pin headers: <A href="https://www.aliexpress.us/item/2251832418097093.html?spm=a
 
 LED1 and R1 are optional and not required for the PCB to work as expected. If your XBOX is a revision 1.6 you will need to rebuild the LPC manually or use a LPC rebuild PCB.
 
+Rev 2 boards have selectable voltage jumpers on the bottom of the board, Rev 3 boards have a selectable voltage switch to address the %V always on for 1.6 XBOXs
+
 ## Where to get one
 
 You can download the gerbers and make your own or soon you will be able to purchase PCB's and assembled units @ <a href="https://www.darkonecustoms.com">Darkone Customs</a>
