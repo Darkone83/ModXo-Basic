@@ -81,6 +81,9 @@ DISP:
 
 ![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/DISP.png?raw=true)
 
+#### Notes
+Previous versions of boards may have TX, and SCK reversed this has been corrected in current revisions of boards.
+
 EXP:
 
 ![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/EXP.png?raw=true)
