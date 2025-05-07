@@ -14,6 +14,6 @@ R1 and R2 are 0805 10ohm resistors and are required for New Haven OLED displays.
 
 Pre-assembled boards and blank PCB's can be purchased at <a href="https://www.darkonecustoms.com">Darkone Customs</a> or you can feel free to build your own!
 
-Pre-assembled board: Coming Soon!
+Pre-assembled board: <a href="https://www.darkonecustoms.com/store/p/33v-oled-breakout-for-modxo-basic">Darkone Customs</a>
 
 Blank PCB: <a href="https://www.darkonecustoms.com/store/p/lcd-33v-breakout-add-on-pcb">Darkone Customs</a>
