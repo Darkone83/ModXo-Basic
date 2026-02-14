@@ -12,7 +12,7 @@ This is designed around Team Resutgent's and Shalx's work on ModXo an open-sourc
 
 For more information on the software side of things and the ModXo project, please visit: https://github.com/Team-Resurgent/Modxo
 
-The BOM and IBOMS are included for ease of assembly. Due to version changes, V3 of the ModXo Basic carrier is not located in the Archive folder along with a legacy Readmo.md
+The BOM and IBOMS are included for ease of assembly. Due to version changes, V3 of the ModXo Basic carrier is not located in the Archive folder along with a legacy Readme.md
 
 ### Parts
 
