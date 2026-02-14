@@ -4,7 +4,7 @@
 
 <a href="https://discord.gg/k2BQhSJ"><img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/discord.svg"></a>
 
-<img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/Board_Front.jpg" width=300> <img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Images/Board_Back.jpg" width=300>
+<img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Archive/Images/Board_Front.jpg" width=300> <img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Archive/Images/Board_Back.jpg" width=300>
 
 A carrier board designed for ModXo V1.X that is expandable via add-ons. 
 
@@ -85,22 +85,22 @@ Either install a LPC rebuild QSB or rebuild your LPC per the rebuild diagram bel
 
 DISP:
 
-![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/DISP.png?raw=true)
+![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Archive/Images/DISP.png?raw=true)
 
 #### Notes
 Previous versions of boards may have TX, and SCK reversed this has been corrected in current revisions of boards.
 
 EXP:
 
-![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/EXP.png?raw=true)
+![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Archive/Images/EXP.png?raw=true)
 
 RGB:
 
-![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/RGB_EXP.png?raw=true)
+<img src="https://github.com/Darkone83/ModXo-Basic/blob/main/Archive/Images/RGB_EXP.png">
 
 To enable the RBG EXP port you will need to manually install a jumper on the lower right pin of the RGB LED to the RGB pad on the carrier board. At this time RGB expansion is not currently enabled. See the example below for connecting the RGB pad
 
-![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Images/RGB_EN.png?raw=true)
+![alt_text](https://github.com/Darkone83/ModXo-Basic/blob/main/Archive/Images/RGB_EN.png?raw=true)
 
 LPC:
 
