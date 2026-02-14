@@ -22,11 +22,11 @@ We do not provide any firmware for the STM32. You will need to either code your 
 
 ## Where can I get one?
 
-Pre-assembled boards and blank PCB's can be purchased at <a href="https://www.darkonecuscoms.com">Darkone Customs</a> or your0 free to build your own
+Pre-assembled boards and blank PCB's can be purchased at <a href="https://www.darkonecustoms.com">Darkone Customs</a> or your0 free to build your own (Listings removed due to DMCA)
 
-Pre-assembled board: <a href="https://www.darkonecustoms.com/store/p/hd-enabeler-add-on-for-modxo-basic-assembled"> Darkone Customs</a>
+Pre-assembled board: Link removed due to DMCA
 
-Blank PCB: <a href="https://www.darkonecustoms.com/store/p/hd-enabler-add-on-for-modxo-basic-pcb">Darkone Customs</a>
+Blank PCB: Link removed due to DMCA
 
 # Installation
 
@@ -41,3 +41,4 @@ Mount the add-on board and connect a 6P SH 1.0 cable from the IN connector to th
 NRST Harnes
 
 ![alt_image](https://raw.githubusercontent.com/Darkone83/ModXo-RP2040-Tiny/refs/heads/main/Images/NRST.png?raw=true)
+
